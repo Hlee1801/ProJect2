@@ -1,0 +1,44 @@
+{
+  "common": {
+    "login": "Đăng nhập",
+    "signup": "Đăng ký",
+    "password": "Mật khẩu",
+    "forgot": "Quên mật khẩu",
+    "confirm": "Xác nhận",
+    "vi": "Tiếng Việt",
+    "en": "Tiếng Anh",
+    "price": "Giá",
+    "feature": "Dịch vụ",
+    "filter": "Lọc theo",
+    "desc": "Mô tả",
+    "decrease": "Giá thấp tới cao",
+    "increase": "Giá cao xuống thấp",
+    "byPrice": "Theo giá",
+    "byService": "Theo dịch vụ",
+    "byLocate": "Theo vị trí",
+    "make-booking": "Thông tin đặt phòng",
+    "detail":"xem chi tiết",
+    "booking":"Đặt phòng"
+  },
+  "navbar": {
+    "home": "Trang chủ",
+    "booking": "Chọn ngày đặt phòng ",
+    "auth": "Đăng nhập/Đăng ký",
+    "info": "Thông tin",
+    "logout": "Đăng xuất"
+  },
+  "noti": {
+    "empty": "Hãy nhập vào ô",
+    "success": "Đặt thành công hãy kiểm tra email của bạn"
+  },
+  "signup": {
+    "name": "Họ & tên",
+    "address": "Địa chỉ",
+    "gender": "Giới tính",
+    "phone": "Số điện thoại",
+    "m": "Nam",
+    "f": "Nữ",
+    "o": "Khác"
+  },
+  "info": "Thông tin"
+}

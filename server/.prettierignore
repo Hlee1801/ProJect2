@@ -1,0 +1,4 @@
+LICENSE
+*.lock
+*.log
+node_modules/

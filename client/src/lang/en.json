@@ -1,0 +1,42 @@
+{
+  "common": {
+    "login": "Login",
+    "signup": "Register",
+    "password": "Password",
+    "forgot": "Forgot Password",
+    "confirm": "Confirm",
+    "vi": "Vietnamese",
+    "en": "English",
+    "price": "Price",
+    "feature": "Serivce",
+    "desc": "Description",
+    "filter": "Filter by",
+    "decrease": "Price from low to high ",
+    "increase": "Price from high to low",
+    "byPrice": "By Price",
+    "byService": "By Room Serivce",
+    "byLocate": "By Room Locate",
+    "make-booking": "Reservation Info",
+    "booking":"Make reservation"
+  },
+  "navbar": {
+    "home": "Home",
+    "booking": "Make reservation",
+    "auth": "Login/Register",
+    "info": "Info",
+    "logout": "Logout"
+  },
+  "noti": {
+    "empty": "Please input field",
+    "success": "Success, please check your mail box"
+  },
+  "signup": {
+    "name": "Full Name",
+    "address": "Address",
+    "gender": "Gender",
+    "phone": "Phone Number",
+    "m": "Male",
+    "f": "Female",
+    "o": "Other"
+  }
+}
